@@ -1,0 +1,5 @@
+This is a collection of screentones and brush presets for The Gimp that makes the creation of manga styled comic books with The Gimp easier by providing the neccesary screentones and varying grades of darkness, at different LPIs and different patterns. The **GMS may be used for commercial and non-commercial projects**.
+
+The screentones are destributed as perfectly aligned and perfectly tiling patterns, optimised to use the lowest amount of RAM. They are **intended to be used at 600dpi**, and as such, need a fairly powerful computer( although for your computer to even work with 600dpi images, it already has to be fairly powerful ).
+
+As per standard when it comes to toning your manga, **tone at the resolution you intend to print at**, **DO NOT RESCALE ANY PAGES INTENDED FOR PRINT**. The tones generally rescale well for webcomics though.
